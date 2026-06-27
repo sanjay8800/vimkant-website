@@ -1,0 +1,6 @@
+{
+  "name": "Vimkant",
+  "description": "Vimkant is an online destination for stylish and affordable artificial jewellery. We offer a carefully curated collection of earrings, necklaces, bangles, rings, bridal jewellery, and fashion accessories designed to complement every occasion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
