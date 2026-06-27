@@ -44,7 +44,7 @@ export default function InquiryCart({
 
     const encodedMessage = encodeURIComponent(messageText);
     // WhatsApp URL. We use a placeholder but standard mobile-friendly wa.me format
-    const whatsappUrl = `https://wa.me/918800223344?text=${encodedMessage}`;
+    const whatsappUrl = `https://wa.me/919711025384?text=${encodedMessage}`;
     
     // Open in new window safely
     window.open(whatsappUrl, '_blank', 'noopener,noreferrer');

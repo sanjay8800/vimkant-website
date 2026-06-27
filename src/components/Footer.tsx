@@ -114,15 +114,15 @@ export default function Footer({ scrollToSection }: FooterProps) {
             <ul className="space-y-3 text-xs font-light text-stone-400">
               <li className="flex items-start space-x-2.5">
                 <MapPin className="w-4 h-4 text-gold-500 shrink-0 mt-0.5" />
-                <span>Vimkant Studio, Connaught Place, New Delhi, 110001, India</span>
+                <span>Roshan Nagar, Ngwanpur Faridabad, Haryana, 121003, India</span>
               </li>
               <li className="flex items-center space-x-2.5">
                 <Phone className="w-4 h-4 text-gold-500 shrink-0" />
-                <span>+91 88002 23344 (Sales Inquiry)</span>
+                <span>+91 97110 25384 (Sales Inquiry)</span>
               </li>
               <li className="flex items-center space-x-2.5">
                 <Mail className="w-4 h-4 text-gold-500 shrink-0" />
-                <span>support@vimkant.com</span>
+                <span>contact@vimkant.com, vijay@vimkant.com</span>
               </li>
             </ul>
           </div>
